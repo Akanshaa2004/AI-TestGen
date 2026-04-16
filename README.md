@@ -1,4 +1,4 @@
-# AI-TestGen
+## AI-TestGen
 
 AI‑powered tool to automatically generate unit tests for your JavaScript/React code.
 
