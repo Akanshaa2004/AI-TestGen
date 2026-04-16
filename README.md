@@ -19,7 +19,7 @@ AI‑powered tool to automatically generate unit tests for your JavaScript/React
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/AI-TestGen.git
+git clone https://github.com/Akanshaa2004/AI-TestGen
 cd AI-TestGen
 
 # Install dependencies
